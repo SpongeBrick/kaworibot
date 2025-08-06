@@ -1,0 +1,91 @@
+{
+  "users": {
+    "120363030834973155@g.us": {
+      "premium": false,
+      "limit": 10,
+      "banned": false,
+      "blocked": false
+    },
+    "6282134123957@s.whatsapp.net": {
+      "premium": false,
+      "limit": 10,
+      "banned": false,
+      "blocked": false
+    }
+  },
+  "data": {
+    "users": {
+      "120363030834973155@g.us": {
+        "premium": false,
+        "limit": 10,
+        "banned": false,
+        "blocked": false,
+        "name": "Yusril Falah",
+        "lastSeen": 1753772585300
+      },
+      "271923070144601@lid": {
+        "name": "Yusril Falah",
+        "banned": false,
+        "premium": false,
+        "limit": 10,
+        "lastSeen": 1753772188993
+      },
+      "6281317090827@s.whatsapp.net": {
+        "name": "albadawie",
+        "premium": false,
+        "limit": 10,
+        "banned": false,
+        "blocked": false,
+        "lastSeen": 1753774906702
+      },
+      "6289694381614-1560699036@g.us": {
+        "name": "Donny Halim",
+        "premium": false,
+        "limit": 10,
+        "banned": false,
+        "blocked": false,
+        "lastSeen": 1753775647291
+      },
+      "6281227844398@s.whatsapp.net": {
+        "name": "Yusril Falah",
+        "premium": false,
+        "limit": 10,
+        "banned": false,
+        "blocked": false,
+        "lastSeen": 1753775667839
+      },
+      "6287727254766@s.whatsapp.net": {
+        "name": "Bagir",
+        "premium": false,
+        "limit": 10,
+        "banned": false,
+        "blocked": false,
+        "lastSeen": 1753775776692
+      },
+      "6289637674220@s.whatsapp.net": {
+        "name": "Arsya Musyaffa",
+        "premium": false,
+        "limit": 10,
+        "banned": false,
+        "blocked": false,
+        "lastSeen": 1753781927074
+      },
+      "6283804395664@s.whatsapp.net": {
+        "name": "Pengguna",
+        "premium": false,
+        "limit": 10,
+        "banned": false,
+        "blocked": false,
+        "lastSeen": 1753783158398
+      },
+      "6289513961770@s.whatsapp.net": {
+        "name": "Ramadhani Rizki Pratama",
+        "premium": false,
+        "limit": 10,
+        "banned": false,
+        "blocked": false,
+        "lastSeen": 1753786809625
+      }
+    }
+  }
+}
